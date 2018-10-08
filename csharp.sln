@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp", "csharp.csproj", "{176C0214-9136-4079-8DAB-11D7420C3881}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VegaCollardKata", "VegaCollardKata\VegaCollardKata.csproj", "{9DE68DA0-B3AE-4F12-82DA-BDAF9289CB0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{176C0214-9136-4079-8DAB-11D7420C3881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176C0214-9136-4079-8DAB-11D7420C3881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176C0214-9136-4079-8DAB-11D7420C3881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176C0214-9136-4079-8DAB-11D7420C3881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE68DA0-B3AE-4F12-82DA-BDAF9289CB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE68DA0-B3AE-4F12-82DA-BDAF9289CB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE68DA0-B3AE-4F12-82DA-BDAF9289CB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE68DA0-B3AE-4F12-82DA-BDAF9289CB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {620ADC2D-2303-4F47-B67E-3D4AB708179D}
+	EndGlobalSection
+EndGlobal
